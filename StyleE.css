@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 10px;
+}
+
+
+
+/*HEADER*/
+header {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    line-height: 4rem;
+    border: 3px solid #2E2E2E;
+    padding: 5px;
+    width: 415px;
+    margin: 0px auto;
+    box-shadow: 0px 0px 15px #434F5B;
+}
+
+header h1 {
+    color: #212A3F;
+    font-size: 41px;
+}
+
+header p{
+    color: #434F5B;
+}
+
+
+
+/*HEAD ONE*/
+.head-one {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+    width: 415px;
+    background-color: #434F5B;
+    text-transform: lowercase;
+    margin: 0px auto;
+}
+
+.head-one ul {
+    padding: 20px 15px;
+    margin: 0px;
+    text-align: center;
+}
+
+.head-one li {
+    list-style: none;
+    display: inline;
+}
+
+.head-one a {
+    color: #f2f2f2;
+    text-decoration: none;
+    margin: 0px 5px;
+    padding: 5px;
+}
+
+
+
+/*MAIN*/
+main {
+    font-family: 'Dancing Script', cursive;
+    padding: 5px;
+    width: 415px;
+    margin: 0px auto;
+    display: block;
+}
+
+main h1 {
+    text-align: center;
+    line-height: 4rem;
+    color: #212A3F;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+main p {
+    text-align: left;
+    color: #2E2E2E;
+    font-size: 1rem;
+    line-height: 1.5;  
+    margin-bottom: 20px;
+}
+
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main h3 {
+    text-align: center;
+    line-height: 2rem;
+    color: #212A3F;
+    font-size: 2rem;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+main ul {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: 0px;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+main li {
+    list-style: none;
+}
+
+.pic1 {
+    padding-bottom: 15px;
+}
+
+.pic2 {
+    padding-bottom: 15px;
+}
+
+.pic3 {
+    padding-bottom: 15px;
+}
+
+.pic4 {
+    padding-bottom: 15px;
+}
+
+img{
+    width: 320px;
+    height: 240px;
+}
+
+
+
+/*FOOTER*/
+hr {
+    border: 7px solid #434F5B;
+    width: 415px;
+    margin: 0px auto;
+}
+
+footer {
+    font-family: 'Dancing Script', cursive;
+    width: 415px;
+    padding-top: 5px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.foot-one ul {
+    margin: 0px;
+    text-align: center;
+}
+
+.foot-one li {
+    list-style: none;
+    display: inline;
+}
+
+.foot-one a {
+    font-size: 0.85rem;
+    color: #212A3F;
+    text-transform: lowercase;
+    text-decoration: none;
+    margin: 0px 1px;
+}
+
+.foot-one p {
+    font-size: 1rem;
+    margin: 0px 10px;
+}
